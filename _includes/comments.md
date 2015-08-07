@@ -1,4 +1,3 @@
-<!-- Duoshuo Comment BEGIN -->
 <div class="ds-thread"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"yuwenguang"};
@@ -11,4 +10,3 @@ var duoshuoQuery = {short_name:"yuwenguang"};
 	 || document.getElementsByTagName('body')[0]).appendChild(ds);
 })();
 </script>
-<!-- Duoshuo Comment END -->
