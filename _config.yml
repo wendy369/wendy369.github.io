@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-url: http://wendy369.gitHub.com/wendy369.gitHub.io
+url: http://wendy369.gitHub.io
 author: 于文广
 encoding: utf-8
 paginate: 20
