@@ -12,6 +12,7 @@
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
     <link rel="stylesheet" href="/bootstrap-3.0.3/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
     <script src="/js/jquery-2.1.1.min.js"></script>
     <script src="/bootstrap-3.0.3/js/bootstrap.min.js"></script>
     <script type="text/javascript">
