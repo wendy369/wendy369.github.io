@@ -1,7 +1,7 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 url: http://wendy369.gitHub.io
-author: 于文广
+author: Wendy
 encoding: utf-8
 paginate: 20
 paginate_path: "page:num"

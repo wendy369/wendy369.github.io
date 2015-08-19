@@ -6,6 +6,7 @@ layout: default
 		$('#nav1').addClass('active');
 	});
 </script>
+<script type="text/javascript" src="/js/post.js"></script>
 <div class="page-top-nav clearfix">
 	<div class="categoryList">
 		<strong>分类：</strong>
@@ -31,8 +32,12 @@ layout: default
 	</div>
 </div>
 <div class="container content">
-	<h3 class="post-title">{{ page.title }}</h3>
+	<h1 class="post-title">{{ page.title }}</h1>
 	<div class="post-title-line"></div>
+	 <p class="entry-date">
+  		作者：<span itemprop="author"><a href="http://wendy369.github.io/about/index.html" target="_blank">{{ site.author }}</a></span><br />
+  		日期：<time datatime="{{ page.date|date:"%Y-%m-%d" }}">{{ page.date|date:"%Y-%m-%d" }}</time>
+  	</p>
 	<div class="post-content">
 	{{ content }}
 	</div>
