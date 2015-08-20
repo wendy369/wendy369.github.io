@@ -31,7 +31,7 @@ layout: default
 		</span>
 	</div>
 </div>
-<div class="container content">
+<div class="content">
 	<h1 class="post-title">{{ page.title }}</h1>
 	<div class="post-title-line"></div>
 	 <p class="entry-date">
